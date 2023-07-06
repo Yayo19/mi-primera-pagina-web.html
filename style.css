@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(213, 211, 207) !important;
+}
+
+.parrafos {
+  border: 2px solid black;
+  margin-left: 1px;
+  text-align: justify;
+  padding: 8px;
+}
+.container {
+  margin-top: 10px;
+}
+.navbar {
+  background-color: rgb(94, 93, 93);
+}
+
+.generico {
+  text-align: justify;
+  border: 2px solid black;
+  padding: 8px;
+  width: 800px;
+  margin: auto;
+}
+
+.nav-text,
+.nav-link,
+.nav-link.active {
+  color: rgb(7, 7, 7) !important;
+}
+
+.carousel-inner {
+  height: 500px;
+}
+@import "../node_modules/bootstrap/scss/bootstrap";
